@@ -1,5 +1,15 @@
 # wind-MCP
 
+## Windows 免 Python 便携版
+
+普通用户无需安装 Python 或 Anaconda：
+
+1. 下载 [Wind-MCP-Windows.zip](https://github.com/yunbeiwang517-dot/wind-MCP/releases/download/windows-portable/Wind-MCP-Windows.zip)
+2. 解压整个 ZIP
+3. 双击 `Wind-MCP.exe`
+
+> 请保留解压后的整个文件夹，不要只单独复制 EXE。
+
 风资源 MCP（Measure-Correlate-Predict）独立拟合工具。
 
 ## Windows 运行
